@@ -9,3 +9,5 @@ class WebBrowser {
   }
 
 }
+
+export default WebBrowser;
